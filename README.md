@@ -2,6 +2,8 @@
 
 ._-
 
-Mi primer commin en local para github
+Mi primer commit en local para github
 
 Un commit mas desde github
+
+Una actualizacion mas
